@@ -7,7 +7,9 @@ Analyzes Tweets and exports the analysis to a CSV file with three colomns (Tweet
 ##Dependencies
 
 tweepy (http://www.tweepy.org/)
+
 textblob (https://textblob.readthedocs.io/en/dev/)
+
 csv
 
 ##Usage
