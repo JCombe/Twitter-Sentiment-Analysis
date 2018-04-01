@@ -16,5 +16,6 @@ Once you have your dependencies installed via pip, run the script in terminal vi
 
 python Twitter-Sentiment-Analysis.py
 
-##Credits
+##Credit
+
 I did some changes to calistatee's script.
